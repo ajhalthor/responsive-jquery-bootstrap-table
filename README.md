@@ -1,6 +1,16 @@
 # jquery-bootstrap-table
 
-A simple yet elegent assessment table, embellished with jquery and bootstrap functionality. 
+A simple yet elegent assessment table, embellished with jquery and bootstrap functionality.
+
+![Gif of Table](/gifs/normal.gif?raw=true "Normal view")
+
+Its got Nice animations to captivate users 
+
+![Validation Gif of Table](/gifs/validation.gif?raw=true "Normal view")
+
+Oh Yeah! Its completely reponsive.
+
+![Resize Gif of Table](/gifs/resize.gif?raw=true "Normal view")
 
 ##Features
 
