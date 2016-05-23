@@ -10,7 +10,7 @@ Its got Nice animations to captivate users
 
 Oh Yeah! Its completely reponsive.
 
-![Resize Gif of Table](/gifs/resize.gif?raw=true "Normal view")
+![Resize Gif of Table](/gifs/resizing.gif?raw=true "Normal view")
 
 ##Features
 
