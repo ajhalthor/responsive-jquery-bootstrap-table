@@ -4,11 +4,11 @@ A simple yet elegent assessment table, embellished with jquery and bootstrap fun
 
 ![Gif of Table](/gifs/normal.gif?raw=true "Normal view")
 
-**Its got Nice animations to captivate users**_ 
+**Its got Nice animations to captivate users**
 
 ![Validation Gif of Table](/gifs/validation.gif?raw=true "Normal view")
 
-**Oh Yeah! Its completely reponsive**_.
+**Oh Yeah! Its completely reponsive**
 
 ![Resize Gif of Table](/gifs/resizing.gif?raw=true "Normal view")
 
