@@ -12,7 +12,7 @@ A simple yet elegent assessment table, embellished with jquery and bootstrap fun
 
 ##Usage
 
-subject-form.php : The actual form that constitutes the core of this project.
+index.html : The actual form that constitutes the core of this project.
 
 Just modify the variables to configure what text appears on a desktop, tablet and mobile. Here is an example :
 
